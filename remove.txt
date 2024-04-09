@@ -3,4 +3,3 @@ vendor/realme
 kernel/realme
 hardware/mediatek
 device/mediatek/sepolicy_vndr
-prebuilts/clang/host/linux-x86/clang-r498229b

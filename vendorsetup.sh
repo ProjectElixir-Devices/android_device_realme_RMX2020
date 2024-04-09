@@ -15,7 +15,3 @@ git clone https://github.com/ArrowOS/android_hardware_mediatek -b arrow-14.0 har
 # Mediatek Sepolicy_vndr
 rm -rf device/mediatek/sepolicy_vndr
 git clone https://github.com/ArrowOS/android_device_mediatek_sepolicy_vndr -b arrow-14.0 device/mediatek/sepolicy_vndr
-
-# AOSP 17.0.4 clang-r498229b
-rm -rf prebuilts/clang/host/linux-x86/clang-r498229b
-git clone --depth=1 https://gitlab.com/Koushikdey2003/android_prebuilts_clang_host_linux-x86_clang-r498229b.git prebuilts/clang/host/linux-x86/clang-r498229b
