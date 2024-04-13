@@ -3,3 +3,4 @@ vendor/realme
 kernel/realme
 hardware/mediatek
 device/mediatek/sepolicy_vndr
+packages/apps/ViPER4AndroidFX
