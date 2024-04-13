@@ -15,6 +15,9 @@ $(call inherit-product, vendor/realme/RMX2020/RMX2020-vendor.mk)
 # IMS
 $(call inherit-product, vendor/realme/RMX2020-ims/RMX2020-ims.mk)
 
+# ViPER5AndroidFX
+$(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
+
 PRODUCT_SHIPPING_API_LEVEL := 29
 
 # Dynamic Partition
